@@ -7,9 +7,7 @@
     <title>Document</title>
 </head>
     <body>
-        <h1 class="m-5">
-            weee
-        </h1>
+        
         
         @vite('resources/js/app.js')
     </body>

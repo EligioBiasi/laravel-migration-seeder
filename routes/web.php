@@ -13,4 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/',[GuestTrainController::class, 'layout']);
+Route::get('/',[GuestTrainController::class, 'index']);
